@@ -9,11 +9,11 @@
  *  file that was distributed with this source code.
  */
 
-namespace cpluscc\OAuthOsu;
+namespace Cpluscc\OAuthOsu;
 
 use Flarum\Extend;
 use FoF\OAuth\Extend as OAuthExtend;
-use cpluscc\OAuthOsu\Providers\Osu;
+use Cpluscc\OAuthOsu\Providers\Osu;
 
 return [
     (new Extend\Frontend('forum'))
