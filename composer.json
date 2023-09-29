@@ -27,7 +27,7 @@
     },
     "extra": {
         "flarum-extension": {
-            "title": "Log In With osu！",
+            "title": "Log In With osu!",
             "category": "feature",
             "icon": {
                 "name": "fab fa-amazon",
