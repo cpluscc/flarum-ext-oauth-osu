@@ -22,7 +22,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "cpluscc\\OAuthOsu\\": "src/"
+            "Cpluscc\\OAuthOsu\\": "src/"
         }
     },
     "extra": {
