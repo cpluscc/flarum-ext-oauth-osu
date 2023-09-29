@@ -9,7 +9,7 @@
  *  file that was distributed with this source code.
  */
 
-namespace cpluscc\OAuthOsu\Providers;
+namespace Cpluscc\OAuthOsu\Providers;
 
 use Flarum\Forum\Auth\Registration;
 use FoF\OAuth\Provider;
